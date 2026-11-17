@@ -1,0 +1,6 @@
+event_id,event_date,customer_id,event_type
+1,2026-01-01,C1,view
+2,2026-01-01,C2,click
+3,2026-01-02,C1,view
+4,2026-01-02,C1,buy
+5,2026-01-03,C3,click
